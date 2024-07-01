@@ -1,0 +1,19 @@
+.class-odd {
+    background-color: rgb(244, 162, 176);
+    font-family: Verdana, DejaVu, Tahoma, sans-serif;
+    font-size: 24px;
+}
+.class-odd2 {
+    font-size: 24px;
+}
+
+#id-num2 {
+    color: rgb(19, 19, 170);
+    font-size: 36px;
+}
+
+#id-num4 {
+    background-color: rgb(19, 109, 19);
+    color: 24px; 
+    font-weight: bold;
+}
