@@ -24,3 +24,23 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* SOLUTIONS */
+
+body {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.containter-2 {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.flower {
+  width: 200px;
+}
