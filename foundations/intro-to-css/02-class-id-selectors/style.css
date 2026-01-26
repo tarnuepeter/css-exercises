@@ -1,0 +1,19 @@
+/* Add CSS Styling */
+.p-class1, .num-class {
+    background-color: pink;
+    font-family: Verdana, 'DejaVu Sans','sans-serif';
+}
+
+.num-class.num3 {
+    font-size: 24px;
+    color: black;
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#num4{
+    background-color: rgb(90, 184, 90);
+}
